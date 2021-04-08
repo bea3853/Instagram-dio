@@ -1,4 +1,4 @@
-# Intagram Dio :star_struck:
+# Intagram Dio 
 
 https://instagram-dio.bealves.repl.co/#
 
@@ -9,7 +9,7 @@ https://instagram-dio.bealves.repl.co/#
 #  Sobre o projeto
 
 Projeto do Bootcamp da Dio Innovation One, página de login do Instagram. 
-#Amei
+#Amei :star_struck:
 
   
 #  Tecnologias utilizadas
