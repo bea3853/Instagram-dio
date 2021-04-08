@@ -9,7 +9,7 @@ https://instagram-dio.bealves.repl.co/#
 #  Sobre o projeto
 
 Projeto do Bootcamp da Dio Innovation One, página de login do Instagram. 
-#Amei :star_struck:
+#Amei 
 
   
 #  Tecnologias utilizadas
