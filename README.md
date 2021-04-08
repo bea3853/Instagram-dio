@@ -1,4 +1,4 @@
-# Intagram Dio : lightbulb
+# Intagram Dio :lock_with_ink_pen:
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/Calculadora/blob/main/LICENSE)
 
