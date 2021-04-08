@@ -1,4 +1,4 @@
-# Intagram Dio :full_moon_with_face:
+# Intagram Dio :star_struck:
 
 https://instagram-dio.bealves.repl.co/#
 
