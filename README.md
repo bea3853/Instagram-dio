@@ -9,7 +9,8 @@ https://instagram-dio.bealves.repl.co/#
 #  Sobre o projeto
 
   
-Pagina de acesso ao instagram.   
+Projeto do Bootcamp da Dio Innovation One, página de login do Instagram. 
+#Amei
 
   
 #  Tecnologias utilizadas
