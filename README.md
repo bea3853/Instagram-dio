@@ -12,7 +12,7 @@ Pagina de acesso ao instagram.
   
 #  Tecnologias utilizadas
 
-##  Visualg
+##  Replit
 
 HTML e CSS
 
